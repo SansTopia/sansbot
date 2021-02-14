@@ -1,1 +1,1 @@
-# uptime buat bot
+# discord-bot
